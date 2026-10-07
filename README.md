@@ -1,3 +1,10 @@
+#👋 Hi, I’m Aryan!
+🎓 *B.Tech CSE (IoT) Student | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer*
+🚀 I enjoy building innovative projects, exploring emerging technologies, and solving real-world problems through code.
+🔬 My goal is to become a researcher and contribute to impactful technology.
+# 💫 About Me:
+🔭 I’m currently working on<br>AI/ML projects, data analytics, IoT systems, and innovative software applications.<br>👯 I’m looking to collaborate on<br>AI/ML, Data Science, IoT, Open Source projects, and Hackathons.<br>🤝 I’m looking for help with<br>Advanced Machine Learning, Generative AI, and building scalable real-world applications.<br>🌱 I’m currently learning<br>Machine Learning • Deep Learning • Generative AI • Full-Stack Development • Advanced Python<br>💬 Ask me about<br>Python • Data Analysis • Machine Learning • IoT • GitHub • Hackathons<br>⚡ Fun fact<br>I enjoy turning ideas into working projects and learning something new every day! 🚀
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_chadokar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanchadokar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanchadokar59@gmail.com) 
