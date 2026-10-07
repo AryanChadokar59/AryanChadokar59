@@ -1,4 +1,4 @@
-#👋 Hi, I’m Aryan!
+#Hi👋 I’m Aryan!
 🎓 *B.Tech CSE (IoT) Student | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer*
 🚀 I enjoy building innovative projects, exploring emerging technologies, and solving real-world problems through code.
 🔬 My goal is to become a researcher and contribute to impactful technology.
